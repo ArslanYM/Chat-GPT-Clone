@@ -10,6 +10,5 @@ Additionally, you can further fine-tune the model by re-training it on a custom 
 Contributing
 If you find a bug or have a suggestion for improving the chatbot, feel free to create an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
