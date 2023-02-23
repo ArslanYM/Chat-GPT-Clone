@@ -83,7 +83,7 @@ const handleSubmit = async(e)=>{
     loader(messageDiv);
    //fetch data from server -> bots response 
 
-   const response = await fetch('http://localhost:3000',{
+   const response = await fetch('https://codeitopenai.onrender.com',{
     method:'POST',
     headers:{
         'Content-Type':'application/json'
